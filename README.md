@@ -1,4 +1,2 @@
-# sample4000
+# 4000
 123asdad
-
-sample
