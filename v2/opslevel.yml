@@ -1,0 +1,10 @@
+version: 1
+service:
+  name: Sample4001  
+  lifecycle: alpha
+  tier: tier_3
+  product: Sample Product
+  owner: inventory_team
+  language: Ruby
+  framework: Sinatra
+  description: Example service in Sinatra
